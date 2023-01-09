@@ -1,0 +1,24 @@
+{
+  "name": "01-node-folder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "start-server": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SushmaGowda7/Learning-Nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SushmaGowda7/Learning-Nodejs/issues"
+  },
+  "homepage": "https://github.com/SushmaGowda7/Learning-Nodejs#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
